@@ -1,7 +1,7 @@
 pip
 click
 typer
-numpy==1.21.0
+numpy
 matplotlib
 nltk
 pandas
