@@ -1,3 +1,4 @@
+pip
 click
 typer
 numpy==1.22.1
