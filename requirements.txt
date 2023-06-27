@@ -1,7 +1,7 @@
 pip==23.1.2
 click
 typer
-numpy
+numpy==1.23.5
 matplotlib
 nltk
 pandas
